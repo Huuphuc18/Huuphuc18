@@ -8,4 +8,4 @@
 Huuphuc18/Huuphuc18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hữu Phúc Là 1 Con Nghiện 
+Tiểu Sử Về : Nguyễn Hữu Phúc Nguyễn Hữu Phúc (09-10-2005) Quê Ở Quảng Trị Anh Ấy Có Niềm Đam Mê Với Bull Trẻ Em
